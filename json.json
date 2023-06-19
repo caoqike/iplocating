@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "country": "中国",
+  "countryCode": "CN",
+  "region": "BJ",
+  "regionName": "北京市",
+  "city": "海淀",
+  "zip": "",
+  "lat": 40.0018,
+  "lon": 116.333,
+  "timezone": "Asia/Shanghai",
+  "isp": "China Education and Research Network Center",
+  "org": "Cernet",
+  "as": "AS4538 China Education and Research Network Center",
+  "query": "211.71.149.53"
+}
